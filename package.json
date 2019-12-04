@@ -27,8 +27,8 @@
     "snekfetch": "^4.0.4",
     "superagent": "^5.1.0",
     "wcjs-prebuilt": "^3.0.0",
-    "ytdl-core": "^1.0.0",
-   "ytdl-core-discord": "^1.0.3"
+    "ytdl-core": "^0.29.5",
+    "ytdl-core-discord": "^1.0.3"
   },
   "description": ""
 }
